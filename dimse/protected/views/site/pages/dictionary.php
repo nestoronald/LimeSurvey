@@ -7,9 +7,9 @@ $this->breadcrumbs=array(
 );
 ?>
 <div class="dic">
-	<h1>Glosario de Terminos</h1>
+	<h1>Glosario de Términos</h1>
 	<p>El Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres, presenta las siguientes definiciones básicas
-	sobre Gestión del Riesgo de Desastres en el ambito de la Gestión Prospectiva y Correctiva con el fin de promover un lenguaje común en esta materia y su uso por el público en general,
+	sobre Gestión del Riesgo de Desastres en el ámbito de la Gestión Prospectiva y Correctiva con el fin de promover un lenguaje común en esta materia y su uso por el público en general,
 	autoridades y profesionales. Para estas definiciones se han considerado múltiples fuentes y comentarios de expertos.
 	Mucho agradeceríamos cualquier comentario por parte de especialistas y otros usuarios con el fin de mejorar la presente terminología.
 	</p>	
@@ -45,7 +45,7 @@ $this->breadcrumbs=array(
 	<h4>Emergencia:</h4>
 	<p>Situación caracterizada por la alteración o interrupción intensa y grave de las condiciones normales de funcionamiento u operación de una comunidad, causada por un evento adverso o por la inminencia del mismo, que obliga a una reacción inmediata y que requiere la respuesta de las instituciones del Estado, los medios de comunicación y de la comunidad en general.</p>
 
-	<h4>Exposición (elementos expuestos) :</h4>
+	<h4>Exposición (elementos expuestos):</h4>
 	<p>Se refiere a la presencia de personas, medios de subsistencia, servicios ambientales y recursos económicos y sociales, bienes culturales e infraestructura que por su localización pueden ser afectados por la manifestación de una amenaza.</p>
 
 	<h3>G</h3>
@@ -106,4 +106,5 @@ $this->breadcrumbs=array(
 	<h3>V</h3>
 	<h4>Vulnerabilidad:</h4>
 	<p>Susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos.​</p>
+	<a href="<?php echo Yii::app()->request->baseUrl; ?>/docs/glosario-terminos-grd-cenepred.pdf" target="_blank">Descargar aqui</a>
 </div>
