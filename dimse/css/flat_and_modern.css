@@ -4490,7 +4490,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #00849d;
+  background-color: #fff;
   border-color: transparent;
 }
 .navbar-default .navbar-brand {
@@ -4518,8 +4518,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ffffff;
-  background-color: #1a242f;
+  color: #ffffff;  
+  background-color: #007d82;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4540,6 +4540,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
   border-color: transparent;
+  background: #4999b0;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
@@ -7070,16 +7071,17 @@ body .checkbox label::after {
 #logo {
     float:left;
 }
-#lema {
-    float: left;    
-    margin-left: 2%;
-    margin-top: 2%;
-    text-align: center;
+#title-main {
+  float: left;
+  margin-left: 2%;  
 }
-#lema h1 {
-    color: #fff;
+#title-main h1 {
+    color: #00849d;
     font-style: italic;
-    font-size: 30px;    
+    font-size: 14px;
+    margin-top: 0;
+    border-left: 7px solid #00849d;
+    padding-left: 3%;    
 }
 body .asterisk, #vmsg_60_commented_checkbox, #vmsg_242_commented_checkbox, .none-alt .answer-container, .none-alt .fa-question-circle {
     display:none;

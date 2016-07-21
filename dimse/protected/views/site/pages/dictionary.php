@@ -3,108 +3,117 @@
 
 $this->pageTitle=Yii::app()->name . ' - About';
 $this->breadcrumbs=array(
-	'Diccionario',
+	'Glosario',
 );
 ?>
 <div class="dic">
 	<h1>Glosario de Términos</h1>
-	<p>El Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres, presenta las siguientes definiciones básicas
+	<p>El Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres - CENEPRED, presenta las siguientes definiciones básicas
 	sobre Gestión del Riesgo de Desastres en el ámbito de la Gestión Prospectiva y Correctiva con el fin de promover un lenguaje común en esta materia y su uso por el público en general,
 	autoridades y profesionales. Para estas definiciones se han considerado múltiples fuentes y comentarios de expertos.
 	Mucho agradeceríamos cualquier comentario por parte de especialistas y otros usuarios con el fin de mejorar la presente terminología.
 	</p>	
 	​​
 	<h3>A</h3> 
-	<h4>Adaptación:</h4>
-	<p>Comprende el ajuste de los sistemas naturales o humanos a los estímulos climáticos actuales o esperados o a sus efectos, con el fin de moderar perjuicios o explotar oportunidades beneficiosas, En el caso de los eventos hidro​meteorológicos la Adaptación al Cambio Climático corresponde a la gestión del riesgo de desastres en la medida en que está encaminada a la reducción de la vulnerabilidad o al mejoramiento de la resiliencia en respuesta a los cambios observados o esperados del clima y su variabilidad.</p>
-
-	<h4>Alerta:</h4>
-	<p>Estado que se declara con anterioridad a la manifestación de un evento peligroso, con base en el monitoreo del comportamiento del respectivo fenómeno, con el fin de que las entidades y la población involucrada activen procedimientos de acción previamente establecidos.</p>
-
-	<h4>Amenaza:</h4>
-	<p>Peligro latente de que un evento físico de origen natural, o causado, o inducido por la acción humana de manera accidental, se presente con una severidad suficiente para causar pérdida de vidas, lesiones u otros impactos en la salud, así como también daños y pérdidas en los bienes, la infraestructura, los medios de sustento, la prestación de servicios y los recursos ambientales.</p>
-
-	<h4>Análisis y evaluación del riesgo:</h4>
-	<p>Implica la consideración de las causas y fuentes del riesgo, sus consecuencias y la probabilidad de que dichas consecuencias puedan ocurrir. Es el modelo mediante el cual se relaciona la amenaza y la vulnerabilidad de los elementos expuestos, con el fin de determinar los posibles efectos sociales, económicos y ambientales y sus probabilidades. Se estima el valor de los daños y las pérdidas potenciales, y se compara con criterios de seguridad establecidos, con el propósito de definir tipos de intervención y alcance de la reducción del riesgo y preparación para la respuesta y recuperación.</p>
+	<h4>Análisis de Riesgos</h4>
+	<p>Procedimiento técnico, que permite identificar y caracterizar los peligros, analizar las vulnerabilidades, calcular, controlar, manejar y comunicar los riesgos, para lograr un desarrollo sostenido mediante una adecuada toma de decisiones en la Gestión del Riesgo de Desastres. El 	Análisis de Riesgo facilita la determinación del nivel del riesgo y la toma de decisiones.</p>
+	<h4>Análisis de Vulnerabilidad</h4>
+	<p>Proceso mediante el cual se evalúa las condiciones existentes de los factores de vulnerabilidad: exposición, fragilidad y resiliencia, de la población y de sus medios de vida.</p>
 
 	<h3>C</h3>
-	<h4>Calamidad pública:</h4>
-	<p>Es el resultado que se desencadena de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales que al encontrar condiciones propicias de vulnerabilidad en las personas, los bienes, la infraestructura, los medios de subsistencia, la prestación de servicios o los recursos ambientales, causa daños o pérdidas humanas, materiales, económicas o ambientales, generando una alteración intensa, grave y extendida en las condiciones normales de funcionamiento de la población, en el respectivo territorio, que exige al municipio, distrito o departamento ejecutar acciones de respuesta a la emergencia, rehabilitación y reconstrucción.</p>
-
-	<h4>Cambio climático:</h4>
-	<p>Importante variación estadística en el estado medio del clima o en su variabilidad, que persiste durante un período prolongado (normalmente decenios o incluso más). El cambio climático se puede deber a procesos naturales internos o a cambios del forzamiento externo, o bien a cambios persistentes antropogénicos en la composición de la atmósfera o en el uso de las tierras.</p>
-
-	<h4>Conocimiento del riesgo:</h4> 
-	<p>Es el proceso de la gestión del riesgo compuesto por la identificación de escenarios de riesgo, el análisis y evaluación del riesgo, el monitoreo y seguimiento del riesgo y sus componentes y la comunicación para promover una mayor conciencia del mismo que alimenta los procesos de reducción del riesgo y de manejo de desastre.</p>
+	<h4>Cultura de Prevención</h4>
+	<p>Es el conjunto de valores, principios, conocimientos y actitudes de una sociedad que le permiten identificar, prevenir, reducir, prepararse, reaccionar y recuperarse de las emergencias o desastres.</p>
 
 	<h3>D</h3>
-	<h4>Desastre:</h4>
-	<p>Es el resultado que se desencadena de la manifestación de uno o varios eventos naturales o antropogénicos no intencionales que al encontrar condiciones propicias de vulnerabilidad en las personas, los bienes, la infraestructura, los medios de subsistencia, la prestación de servicios o los recursos ambientales, causa daños o pérdidas humanas, materiales, económicas o ambientales, generando una alteración intensa, grave y extendida en las condiciones normales de funcionamiento de la sociedad, que exige del Estado y del sistema nacional ejecutar acciones de respuesta a la emergencia, rehabilitación y reconstrucción.</p>
+	<h4>Desastre</h4>
+	<p>Conjunto de daños y pérdidas, en la salud, fuentes de sustento, hábitat físico, infraestructura, actividad económica y medio ambiente, que ocurre a consecuencia del impacto de un peligro o amenaza cuya intensidad genera graves alteraciones en el funcionamiento de las unidades sociales, sobrepasando la capacidad de respuesta local para atender eficazmente sus consecuencias, pudiendo ser de origen natural o inducido por la acción humana.</p>
+
+	<h4>Desarrollo Sostenible</h4>
+	<p>Proceso de transformación natural, económica, social, cultural e institucional, que tiene por objeto asegurar el mejoramiento de las condiciones de vida del ser humano, la producción de bienes y prestación de servicios, sin deteriorar el ambiente natural ni comprometer las bases de un desarrollo similar para las futuras generaciones.</p>
+	<h4>DIMSE</h4>
+	<p>Dirección de Monitoreo, Seguimiento y Evaluación, es el órgano en línea responsable del monitoreo, seguimiento y evaluación de los procesos de estimación. Prevención, reducción del riesgo y reconstrucción, así como la aplicación de normas, planes y lineamientos técnicos en todas las instancias del SINAGERD, proponiendo a la Jefatura la mejora continua en los procesos de competencia del CENEPRED.</p>
 
 	<h3>E</h3>
-	<h4>Emergencia:</h4>
-	<p>Situación caracterizada por la alteración o interrupción intensa y grave de las condiciones normales de funcionamiento u operación de una comunidad, causada por un evento adverso o por la inminencia del mismo, que obliga a una reacción inmediata y que requiere la respuesta de las instituciones del Estado, los medios de comunicación y de la comunidad en general.</p>
+	<h4>Elementos de Riesgo o Expuestos</h4>
+	<p>Es el contexto social, material y ambiental presentado por las personas y por los recursos, servicios y ecosistemas que pueden ser afectados por un fenómeno físico.</p>
 
-	<h4>Exposición (elementos expuestos):</h4>
-	<p>Se refiere a la presencia de personas, medios de subsistencia, servicios ambientales y recursos económicos y sociales, bienes culturales e infraestructura que por su localización pueden ser afectados por la manifestación de una amenaza.</p>
+	<h4>Estimación</h4>
+	<p>La Estimación del Riesgo comprende las acciones y procedimientos que se realizan para generar  el conocimiento de los peligros o amenazas, analizar la vulnerabilidad y establecer los niveles de riesgo que permitan la toma de decisiones en la Gestión del Riesgo de Desastres.</p>
+	<h4>Estrategia Financiera GRD</h4>
+	<p>Instrumento del SINAGERD que comprende el conjunto de acciones establecidas para asegurar una adecuada capacidad financiera en los procesos de GRD y una mejor cobertura de los riesgos fiscales derivados de la ocurrencia de desastres. Comprende dos grandes mecanismos: programas presupuestales y otras herramientas financieras que están relacionadas con la GRD.</p>
+	<h4>Exposición</h4>
+	<p>Se genera por una relación no apropiada con el ambiente, a mayor exposición, mayor vulnerabilidad. Aquí se analizan las unidades sociales expuestas (como la población, la familia y la comunidad), unidades productivas (terrenos, zonas agrícolas, etc.), servicios públicos, infraestructura u otros elementos, que están expuestas a los peligros identificados.</p>
+	<h4>Evaluación de Riesgos</h4>
+	<p>Componente del procedimiento técnico del análisis de riesgos, el cual permite calcular y controlar los riesgos, previa identificación de los peligros y análisis de las vulnerabilidades, recomendando medidas de prevención y/o reducción del riesgo de desastres y valoración de riesgos.</p>
+	<h4>Evaluación de impacto de la emergencia o desastre</h4>
+	<p>Instrumento técnico de gestión cuyo propósito es estimar en términos monetarios los efectos ocasionados por la emergencia o desastre, en los sectores sociales, económicos y transversales, es decir, determinar el valor de los activos fijos destruidos (daños); el valor de los cambios en los flujos de producción de bienes y servicios (pérdidas); valor de las erogaciones requeridas para la producción de bienes y la prestación de servicios (costos adicionales). Así como información económica, social y cultural de la población afectada.</p>
+
+	<h3>F</h3>
+	<h4>Fragilidad</h4>
+	<p>Indica las condiciones de desventaja o debilidad relacionadas al ser humano y sus medios de vida frente a un peligro, a mayor fragilidad, mayor vulnerabilidad. Aquí se analizan las condiciones físicas de una comunidad o sociedad y es de origen interno. Ejemplo: formas de construcción, no seguimiento de normativa vigente sobre construcción, materiales, entre otros.</p>
 
 	<h3>G</h3>
-	<h4>Gestión del riesgo:</h4>
-	<p>Es el proceso social de planeación, ejecución, seguimiento y evaluación de políticas y acciones permanentes para el conocimiento del riesgo y promoción de una mayor conciencia del mismo, impedir o evitar que se genere, reducirlo o controlarlo cuando ya existe y para prepararse y manejar las situaciones de desastre, así como para la posterior recuperación, entiéndase: rehabilitación y reconstrucción. Estas acciones tienen el propósito explícito de contribuir a la seguridad, el bienestar y calidad de vida de las personas y al desarrollo sostenible.</p>
+	<h4>Gestión Correctiva</h4>
+	<p>Conjunto de acciones que planifican y realizan con el objeto de corregir o mitigar el riesgo existente.</p>
+	<h4>Gestión del Riesgo de Desastres (GRD)</h4>
+	<p>Es un proceso social cuyo fin último es la prevención, la reducción y el control permanente de los factores de riesgo de desastre en la sociedad, así como la adecuada preparación y respuesta ante situaciones de desastre, considerando las políticas nacionales con especial énfasis en aquellas relativas a materia económica, ambiental, de seguridad, defensa nacional y territorial de manera sostenible.</p>
+	<h4>Gestión Prospectiva</h4>
+	<p>Conjunto de acciones que planifican con el fin de evitar y prevenir la conformación de riesgo futuro que podría originarse con el desarrollo de nuevas inversiones y proyectos en el territorio.</p>
+	<h4>Grupo de Trabajo en Gestión del Riesgo de Desastres (GTGRD)</h4>
+	<p>Son espacios internos de articulación, de las unidades orgánicas competentes de cada entidad pública en los tres niveles de gobierno, para la formulación de normas y planes, evaluación y organización de los procesos de gestión del riesgo de desastres en el ámbito de su competencia.</p>
+
 
 	<h3>I</h3>
-	<h4>Intervención:</h4>
-	<p>Corresponde al tratamiento del riesgo mediante la modificación intencional de las características de un fenómeno con el fin de reducir la amenaza que representa o de modificar las características intrínsecas de un elemento expuesto con el fin de reducir su vulnerabilidad.</p>
+	<h4>Identificación de Peligros</h4>
+	<p>Conjunto de actividades de localización, estudio y vigilancia de peligros y su potencial daño, que forma parte del proceso de estimación del riesgo. </p>
 
-	<h4>Intervención correctiva:</h4>
-	<p>Proceso cuyo objetivo es reducir el nivel de riesgo existente en la sociedad a través de acciones de mitigación, en el sentido de disminuir o reducir las condiciones de amenaza, cuando sea posible, y la vulnerabilidad de los elementos expuestos.</p>
-
-	<h4>Intervención prospectiva:</h4>
-	<p>Proceso cuyo objetivo es garantizar que no surjan nuevas situaciones de riesgo a través de acciones de prevención, impidiendo que los elementos expuestos sean vulnerables o que lleguen a estar expuestos ante posibles eventos peligrosos. Su objetivo último es evitar nuevo riesgo y la necesidad de intervenciones correctivas en el futuro. La intervención prospectiva se realiza primordialmente a través de la planificación ambiental sostenible, el ordenamiento territorial, la planificación sectorial, la regulación y las especificaciones técnicas, los estudios de prefactibilidad y diseño adecuados, el control y seguimiento y en general todos aquellos mecanismos que contribuyan de manera anticipada a la localización, construcción y funcionamiento seguro de la infraestructura, los bienes y la población.
-	</p>
 
 	<h3>M</h3>
-	<h4>Manejo de desastres:</h4> 
-	<p>Es el proceso de la gestión del riesgo compuesto por la preparación para la respuesta a emergencias, la preparación para la recuperación posdesastre, la ejecución de dicha respuesta y la ejecución de la respectiva recuperación, entiéndase: rehabilitación y recuperación.</p>
+	<h4>Medidas Estructurales</h4>
+	<p>Cualquier construcción física para reducir o evitar los riesgos o la aplicación de técnicas de ingeniería para lograr la resistencia y la resiliencia de las estructuras o de los sistemas frente a los peligros.</p>
 
-	<h4>Mitigación del riesgo:</h4>
-	<p>Medidas de intervención prescriptiva o correctiva dirigidas a reducir o disminuir los daños y pérdidas que se puedan presentar a través de reglamentos de seguridad y proyectos de inversión pública o privada cuyo objetivo es reducir las condiciones de amenaza, cuando sea posible, y la vulnerabilidad existente.</p>
+	<h4>Medidas no Estructurales</h4>
+	<p>Cualquier medida que no suponga una construcción física y que utiliza el conocimiento, las prácticas o los acuerdos existentes para reducir el riesgo y sus impactos, especialmente a través de políticas y leyes, una mayor concientización pública, capacitación y educación.</p>
+
 
 	<h3>P</h3>
-	<h4>Preparación:</h4>
-	<p>Es el conjunto de acciones principalmente de coordinación, sistemas de alerta, capacitación, equipamiento, centros de reserva y albergues y entrenamiento, con el propósito de optimizar la ejecución de los diferentes servicios básicos de respuesta, como accesibilidad y transporte, telecomunicaciones, evaluación de daños y análisis de necesidades, salud y saneamiento básico, búsqueda y rescate, extinción de incendios y manejo de materiales peligrosos, albergues y alimentación, servicios públicos, seguridad y convivencia, aspectos financieros y legales, información pública y el manejo general de la respuesta, entre otros.</p>
+	<h4>Peligro</h4>
+	<p>Probabilidad de que un fenómeno físico, potencialmente dañino, de origen natural o inducido por la acción humana, se presente en un lugar específico con una cierta intensidad y en un periodo de tiempo y frecuencia definidos.</p>
+	<h4>Peligro Inminente</h4>
+	<p>Fenómeno de origen natural o inducido por la acción humana, con alta probabilidad de ocurrir y de desencadenar un impacto de consecuencias significativas en la población y su entorno de tipo social, económico y ambiental debido al nivel de deterioro acumulado en el tiempo y que las condiciones de éstas no cambian.</p>
+	<h4>Plan Integral de Reconstrucción</h4>
+	<p>Es el instrumento técnico operativo, diseñado para asegurar la recuperación social, reactivación económica así como la recuperación física en las localidades afectadas, en el marco del proceso de reconstrucción. Dicho plan se base en estudios específicos necesarios para su elaboración, desarrollados por las entidades competentes, los cuales a su vez sustentan la ejecución de la reconstrucción en el mismo lugar o la reubicación de la población. Las acciones definidas en el Plan Integral de Reconstrucción orientan un criterio de priorización que permita iniciar la intervención en los sectores sociales más necesitados.</p>
+	<h4>Plan de Reasentamiento Poblacional</h4>
+	<p>Documento de gestión que establece las acciones, las entidades intervinientes y sus responsabilidades, el plazo de ejecución y los costos, así como la información relacionada a la zona declarada de Muy Alto Riesgo No Mitigable, la evaluación de la población a reasentar de los predios afectados, el saneamiento físico legal de los predios a desocupar, el uso inmediato de las zonas desocupadas, la evaluación de la zona de acogida, los instrumentos disponibles para su ocupación segura.</p>
+	<h4>Política Nacional de GRD</h4>
+	<p>Es el conjunto de orientaciones dirigidas a impedir o reducir los riesgos de desastres, evitar la generación de nuevos riesgos y efectuar una adecuada preparación, atención, rehabilitación y reconstrucción ante situaciones de desastres, así como a minimizar sus efectos adversos sobre la población, la economía y el ambiente.</p>
+	<h4>PLANAGERD</h4>
+	<p>Plan Nacional de Gestión del Riesgo de Desastres, se formula con el fin de avanzar estratégicamente en la implementación de los procesos de la GRD en los planes de desarrollo, ordenamiento y acondicionamiento territorial. El PLANAGERD implementa la Política Nacional de GRD, mediante la articulación y ejecución de los procesos de la Gestión del Riesgo de Desastres. </p>
+	<h4>Prevención</h4>
+	<p>El proceso de Prevención del Riesgo comprende las acciones que se orientan a evitar la generación de nuevos riesgos en la sociedad en el contexto de la gestión del desarrollo sostenible.</p>
 
-	<h4>Prevención de riesgo:</h4> 
-	<p>Medidas y acciones de intervención restrictiva o prospectiva dispuestas con anticipación con el fin de evitar que se genere riesgo. Puede enfocarse a evitar o neutralizar la amenaza o la exposición y la vulnerabilidad ante la misma en forma definitiva para impedir que se genere nuevo riesgo. Los instrumentos esenciales de la prevención son aquellos previstos en la planificación, la inversión pública y el ordenamiento ambiental territorial, que tienen como objetivo reglamentar el uso y la ocupación del suelo de forma segura y sostenible.</p>
-
-	<h4>Protección financiera:</h4>
-	<p>Mecanismos o instrumentos financieros de retención intencional o transferencia del riesgo que se establecen en forma ex ante con el fin de acceder de manera ex post a recursos económicos oportunos para la atención de emergencias y la recuperación.</p>
 
 	<h3>R</h3>
-	<h4>Recuperación:</h4>
-	<p>Son las acciones para el restablecimiento de las condiciones normales de vida mediante la rehabilitación, reparación o reconstrucción del área afectada, los bienes y servicios interrumpidos o deteriorados y el restablecimiento e impulso del desarrollo económico y social de la comunidad. La recuperación tiene como propósito central evitar la reproducción de las condiciones de riesgo preexistentes en el área o sector afectado.</p>
+	<h4>Reconstrucción</h4>
+	<p>El proceso de Reconstrucción comprende las acciones que se realizan para establecer las condiciones sostenibles de desarrollo en las áreas afectadas, reduciendo el riesgo anterior al desastre y asegurando la recuperación física y social, así como la reactivación económica de las comunidades afectadas.</p>
 
-	<h4>Reducción del riesgo:</h4>
-	<p>Es el proceso de la gestión del riesgo, está compuesto por la intervención dirigida a modificar o disminuir las condiciones de riesgo existentes, entiéndase: mitigación del riesgo y a evitar nuevo riesgo en el territorio, entiéndase: prevención del riesgo. Son medidas de mitigación y prevención que se adoptan con antelación para reducir la amenaza, la exposición y disminuir la vulnerabilidad de las personas, los medios de subsistencia, los bienes, la infraestructura y los recursos ambientales, para evitar o minimizar los daños y pérdidas en caso de producirse los eventos físicos peligrosos. La reducción del riesgo la componen la intervención correctiva del riesgo existente, la intervención prospectiva de nuevo riesgo y la protección financiera.</p>
+	<h4>Reducción</h4>
+	<p>El proceso de Reducción del Riesgo comprende las acciones que se realizan para reducir las vulnerabilidades  y riesgos existentes en el contexto de la gestión del desarrollo sostenible.</p>
 
-	<h4>Reglamentación prescriptiva:</h4>
-	<p>Disposiciones cuyo objetivo es determinar en forma explícita exigencias mínimas de seguridad en elementos que están o van a estar expuestos en áreas propensas a eventos peligrosos con el fin de preestablecer el nivel de riesgo aceptable en dichas áreas.</p>
+	<h4>Resiliencia</h4>
+	<p>Capacidad de las personas, familias y comunidades, entidades públicas y privadas, las actividades económicas y las estructuras físicas, para asimilar, adsorber, adaptarse, cambiar, resistir y recuperarse, del impacto de un peligro o amenaza, así como de incrementar su capacidad de aprendizaje y recuperación de los desastres pasados para protegerse mejor en el futuro.</p>
 
-	<h4>Reglamentación restrictiva:</h4> 
-	<p>Disposiciones cuyo objetivo es evitar la configuración de nuevo riesgo mediante la prohibición taxativa de la ocupación permanente de áreas expuestas y propensas a eventos peligrosos. Es fundamental para la planificación ambiental y territorial sostenible.</p>
+	<h4>Riesgo de Desastre</h4>
+	<p>Es la probabilidad de que la población y sus medios de vida sufran daños y pérdidas a consecuencia de su condición de vulnerabilidad y el impacto de un peligro. </p>
 
-	<h4>Respuesta:</h4>
-	<p>Ejecución de las actividades necesarias para la atención de la emergencia como accesibilidad y transporte, telecomunicaciones, evaluación de daños y análisis de necesidades, salud y saneamiento básico, búsqueda y rescate, extinción de incendios y manejo de materiales peligrosos, albergues y alimentación, servicios públicos, seguridad y convivencia, aspectos financieros y legales, información pública y el manejo general de la respuesta, entre otros. La efectividad de la respuesta depende de la calidad de preparación.</p>
-
-	<h4>Riesgo de desastres:</h4>
-	<p>Corresponde a los daños o pérdidas potenciales que pueden presentarse debido a los eventos físicos peligrosos de origen natural, socio-natural tecnológico, biosanitario o humano no intencional, en un período de tiempo específico y que son determinados por la vulnerabilidad de los elementos expuestos; por consiguiente el riesgo de desastres se deriva de la combinación de la amenaza y la vulnerabilidad.</p>
 
 	<h3>S</h3>
-	<h4>Seguridad territorial:</h4>
-	<p>La seguridad territorial se refiere a la sostenibilidad de las relaciones entre la dinámica de la naturaleza y la dinámica de las comunidades en un territorio en particular. Este concepto incluye las nociones de seguridad alimentaria, seguridad jurídica o institucional, seguridad económica, seguridad ecológica y seguridad social.</p>
+	<h4>SINAGERD</h4>
+	<p>Sistema Nacional de Gestión del Riesgo de Desastres, es un sistema institucional, sinérgico, descentralizado, transversal y participativo, conformado por todas las instancias de los tres niveles de gobierno, con la finalidad de identificar y reducir los riesgos asociados a peligros o minimizar sus efectos, así como evitar la generación de nuevos riesgos, y preparación y atención ante situaciones de desastre mediante el establecimiento de principios, lineamientos de política, componentes, procesos e instrumentos de Gestión del Riesgo de Desastres.</p>
+
 
 	<h3>V</h3>
 	<h4>Vulnerabilidad:</h4>
-	<p>Susceptibilidad o fragilidad física, económica, social, ambiental o institucional que tiene una comunidad de ser afectada o de sufrir efectos adversos en caso de que un evento físico peligroso se presente. Corresponde a la predisposición a sufrir pérdidas o daños de los seres humanos y sus medios de subsistencia, así como de sus sistemas físicos, sociales, económicos y de apoyo que pueden ser afectados por eventos físicos peligrosos.​</p>
+	<p>Es la susceptibilidad de la población, la estructura física o las actividades socioeconómicas, de sufrir daños por acción de un peligro o amenaza. </p>
 	<a href="<?php echo Yii::app()->request->baseUrl; ?>/docs/glosario-terminos-grd-cenepred.pdf" target="_blank">Descargar aqui</a>
 </div>
