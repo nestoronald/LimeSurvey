@@ -16,7 +16,9 @@ $this->pageTitle=Yii::app()->name;
  		<h1 class="title-home">SIMSE <span class="deta">Sistema de Información de Monitoreo Seguimiento y Evaluación</span></h1>
  	</div>
  	<div class="col-md-6" id="img-home"><img src="images/fondo-prueba-1.jpg"></div> 
- 	<div class="col-md-12">
- 	<p>Es un sistema de información de apoyo que permite gestionar y monitorear la Implementación de la Política y el Plan Nacional de Gestión del Riesgo de Desastres, en sus tres niveles de gobierno.</p>
+ 	<div class="col-md-12" id="content-home">
+ 	<p>EL Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres - CENEPRED a través de la Dirección de Monitoreo Seguimiento y Evaluación - DIMSE pone a disposición el Sistema de Información de Monitoreo,
+Seguimiento y Evaluación - SIMSE.</p>
+ 	<p>El Sistema de información es una herrmienta de apoyo que permite gestionar y monitorear la Implementación de la Política y el Plan Nacional de Gestión del Riesgo de Desastres, en sus tres niveles de gobierno.</p>
  	</div>	
  </div>
