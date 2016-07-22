@@ -17,8 +17,11 @@ $this->pageTitle=Yii::app()->name;
  	</div>
  	<div class="col-md-6" id="img-home"><img src="images/fondo-prueba-1.jpg"></div> 
  	<div class="col-md-12" id="content-home">
- 	<p>EL Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres - CENEPRED a través de la Dirección de Monitoreo Seguimiento y Evaluación - DIMSE pone a disposición el Sistema de Información de Monitoreo,
+ 	<p>EL Centro Nacional de Estimación, Prevención y Reducción del Riesgo de Desastres - <b>CENEPRED</b> a través de la Dirección de Monitoreo Seguimiento y Evaluación - DIMSE pone a disposición el Sistema de Información de Monitoreo,
 Seguimiento y Evaluación - SIMSE.</p>
- 	<p>El Sistema de información es una herrmienta de apoyo que permite gestionar y monitorear la Implementación de la Política y el Plan Nacional de Gestión del Riesgo de Desastres, en sus tres niveles de gobierno.</p>
+ 	<p>El Sistema de información es una herramienta de apoyo que permite gestionar y monitorear la Implementación de la Política y el Plan Nacional de Gestión del Riesgo de Desastres, en sus tres niveles de gobierno.</p>
+ 	<p>EL sistema permite recabar información a travès de cuestionarios de indicadores ajustado al PLANAGERD, así como la directiva que norma su uso. </br>
+	Invitamos a todas las instituciones de los tres niveles del gobierno, y por intermedio de sus respectivos Grupos de Trabajo en GRD, a que participen utilizando el cuestionario de manera frecuente (una vez por semestre), a fin de ir mejorando el sistema de seguimiento con información cada vez más confiable y con mayor cobertura, lo cual nos permitirá retroalimentar el sistema y ajustar nuestras estrategias para un óptimo resultado del SINAGERD en conjunto.
+	</p>
  	</div>	
  </div>

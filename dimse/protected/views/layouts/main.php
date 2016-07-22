@@ -51,10 +51,11 @@
 		    <nav class="navbar navbar-default" >
 		        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="">
             		<ul class="nav navbar-nav" style="">		        	
-			        	<li class="active"><a href="/limesurvey/dimse/index.php?r=site/index">Inicio</a></li>
+			        	<li><a href="/limesurvey/dimse/index.php?r=site/index">Inicio</a></li>
 			        	<li><a href="/limesurvey/dimse/index.php?r=site/page&amp;view=dictionary">Glosario</a></li>
 			        	<li><a href="/limesurvey/dimse/index.php?r=site/contact">Contacto</a></li>
 			        	<li><a href="http://192.168.2.20/limesurvey/admin">Iniciar Sesion</a></li>
+			        	<li><a href="/limesurvey/dimse/index.php?r=site/page&amp;view=list-doc">Documentos</a></li>
 			        	<!-- <li><a href="/limesurvey/dimse/index.php?r=site/register">Registrar</a></li> -->
 			        	<!-- <li><a href="/limesurvey/dimse/index.php?r=site/page&amp;view=help">Ayuda</a></li> -->
 		        	</ul>
