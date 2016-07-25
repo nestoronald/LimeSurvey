@@ -245,4 +245,12 @@ form [type=submit] {
   	margin-left: auto;
   	display: table;
   	float: none !important;
+	}
+}
+
+.table > thead > tr > th {
+	font-weight: bold;
+}
+.table > thead > tr > th.border-b {
+	border-bottom: 2px solid #9cafb4 !important;
 }
