@@ -103,33 +103,33 @@
 	 	<td>08</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 091-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/VIII_RJ-ResolucionJefatural-091-2016-GP-GC-PDC.pdf"> <span class="glyphicon glyphicon-file"> </span> Resolucion Jefatural N° 091-2014-CENEPRED/J </a> </td>
 		<td> 24/06/2016 </td>
 		<td> </td>
 		<td> </td>
-		<td>LINEAMIENTO </td>
-		<td>Lineamientos para incorporar la gestion prospectiva y gestion correctiva en los planes de desarrollo concertado-PDC</td>
+		<td><a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/VIII_LIN-lineamiento-para-incorporar-GP-GC-en-PDC.pdf"> <span class="glyphicon glyphicon-file"></span>Lineamiento </a></td>
+		<td>Lineamientos para incorporar la gestion prospectiva y gestion correctiva en los Planes de Desarrollo Concertado-PDC</td>
 	</tr>
 	<tr>
 	 	<td>09</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 092-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/VII_RJ-ResolucionJefatural-092-2016-LinGP-GC-PP.pdf"><span class="glyphicon glyphicon-file"></span> Resolucion Jefatural N° 092-2016-CENEPRED/J </a> </td>
 		<td> 24/06/2016 </td>
 		<td> </td>
 		<td> </td>
-		<td>Lineamiento</td>
+		<td><a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/IX_LIN-lineamiento-para-incorporar-GP-GC-PP.pdf"> <span class="glyphicon glyphicon-file"></span>Lineamiento </a></td>
 		<td>Lineamientos para incorporar la gestion prospectiva y gestion correctiva en los presupuestos participativos-PP</td>
 	</tr>
 	<tr>
 	 	<td>10</td>
-	 	<td> Resolución Ministerial N° 276-2012-PCM </td>
+	 	<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/X_RM-N-276-2012-PCM-lineamiento-para-la-constitucion-de-los-GTGRD.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolución Ministerial N° 276-2012-PCM </a></td>
 		<td> </td>
 		<td> </td>
 		<td> </td>
 		<td> </td>
 		<td> </td>
-		<td>Lineamiento</td>
+		<td> Lineamiento </td>		
 		<td>Lineamientos para la constitucion y funcionamiento de los grupos de trabajo de la gestion de riesgo de desastres en los tres niveles de gobierno</td>
 	</tr>
 	<tr>
@@ -138,9 +138,9 @@
 		<td> </td>
 		<td> Resolucion Jefatural N° 115-2014-CENEPRED/J </td>
 		<td> </td>
-		<td> Directiva N° 012-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XI_DIR-directiva-012-2014-evar-inducidos-humana.pdf"> <span class="glyphicon glyphicon-file"></span> Directiva N° 012-2014-CENEPRED/J </a></td>
 		<td> </td>
-		<td>Manual</td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XI_MAN-manual-evar-induc-accion-humana.pdf"> <span class="glyphicon glyphicon-file"> </span>Manual</a></td>
 		<td>Manual para la evaluación de riesgos inducidos por la accion humana</td>
 	</tr>
 	<tr>
@@ -149,25 +149,25 @@
 		<td> </td>
 		<td> Resolucion Jefatural N° 116-2014-CENEPRED/J </td>
 		<td> </td>
-		<td> Directiva N° 013-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XII-DIR-directiva-013-2014-evar-biologicos.pdf"> <span class="glyphicon glyphicon-file"> </span>Directiva N° 013-2014-CENEPRED/J </a></td>
 		<td> </td>
-		<td>Manual</td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XII-MAN-manual-evar-biologicos.pdf"> <span class="glyphicon glyphicon-file"> </span>Manual</a></td>
 		<td>Manual para la evaluación de riesgos biológicos</td>
 	</tr>
 	<tr>
 	 	<td>13</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 112-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIII-RJ-ResolucionJefatural-112-2014-manual-evar-fen-nat-ver-ii.pdf"> <span class="glyphicon glyphicon-file"> </span> Resolucion Jefatural N° 112-2014-CENEPRED/J </a></td>
 		<td> 31/12/2014 </td>
-		<td> Directiva N° 009-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIII-DIR-directiva-009-2014-manual-evar-fen-nat-ver-ii.pdf"> <span class="glyphicon glyphicon-file"> </span> Directiva N° 009-2014-CENEPRED/J </a></td>
 		<td> </td>
 		<td>Manual</td>
 		<td>Manual para la evaluación de riesgos originados por fenomenos naturales</td>
 	</tr>
 	<tr>
 	 	<td>14</td>
-	 	<td> Resolucion Ministerial N° 120-2013-PCM </td>
+	 	<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIV-RM-220-2013-PCM-reduccion.pdf"> <span class="glyphicon glyphicon-file"> </span> Resolucion Ministerial N° 120-2013-PCM </a> </td>
 		<td>  21/08/2013 </td>
 		<td> </td>
 		<td> 21/08/2013 </td>
@@ -178,7 +178,7 @@
 	</tr>
 	<tr>
 	 	<td>15</td>
-	 	<td> Resolucion Ministerial N° 222-2013-PCM </td>
+	 	<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XV-RM-222-2013-PCM-prevencion.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolucion Ministerial N° 222-2013-PCM </a></td>
 		<td> 22/08/2013 </td>
 		<td> </td>
 		<td> 22/08/2013 </td>
@@ -191,16 +191,16 @@
 	 	<td>16</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 084-2016-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVI-RJ-ResolucionJefatural-084-lineamientos-EIED.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolucion Jefatural N° 084-2016-CENEPRED/J </a> </td>
 		<td> 21/06/2016 </td>
 		<td> </td>
 		<td> </td>
-		<td>Lineamiento</td>
+		<td><a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVI-LIN-lineamientos-EIED-07-06.pdf"> <span class="glyphicon glyphicon-file"> </span>Lineamiento</a></td>
 		<td>Lineamientos para la formulacion y aprobacion del informe de evaluacion del impacto de la emergencia o desastre</td>
 	</tr>
 	<tr>
 	 	<td>17</td>
-	 	<td> Resolucion Ministerial N° 334-2012-PCM </td>
+	 	<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVII-RM-334-2012-PCM-estimacion.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolucion Ministerial N° 334-2012-PCM </a></td>
 		<td> 26/12/2012 </td>
 		<td> </td>
 		<td> </td>
@@ -213,33 +213,33 @@
 	 	<td>18</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 087-2016-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVIII-RJ-ResolucionJefatural-087-2016.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolucion Jefatural N° 087-2016-CENEPRED/J </a></td>
 		<td> 21/06/2016 </td>
-		<td> Directiva N° 015-2016-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVIII-DIR-directiva-015-informe-preliminar-riesgos.pdf"> <span class="glyphicon glyphicon-file"> </span>Directiva N° 015-2016-CENEPRED/J </a></td>
 		<td> 21/06/2016 </td>
-		<td>Guia</td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XVIII-GUI-guia-informe-preliminar-riesgos.pdf"> <span class="glyphicon glyphicon-file"> </span>Guia</a></td>
 		<td>Guia para elaborar el informe preliminar de riesgos</td>
 	</tr>
 	<tr>
 	 	<td>19</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 077-2016-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIX-RJ-ResolucionJefatural-077-EEIED.pdf"> <span class="glyphicon glyphicon-file"> </span>Resolucion Jefatural N° 077-2016-CENEPRED/J </a></td>
 		<td> 03/06/2016 </td>
-		<td> Directiva N° 009-2016-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIX-RJ-ResolucionJefatural-077-EEIED.pdf"> <span class="glyphicon glyphicon-file"> </span>Directiva N° 009-2016-CENEPRED/J</a> </td>
 		<td> 03/06/2016 </td>
-		<td>Guia</td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XIX-GUI-guia-EEIED.pdf"> <span class="glyphicon glyphicon-file"> </span>Guia</a></td>
 		<td>Guia para la formulacion del informe de evaluación del impacto de emergencias o desastres</td>
 	</tr>
 	<tr>
 	 	<td>20</td>
 	 	<td> </td>
 		<td> </td>
-		<td> Resolucion Jefatural N° 114-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XX-RJ-114-2014-manual-evar-vulcanismo.pdf"> <span class="glyphicon glyphicon-file"> </span> Resolucion Jefatural N° 114-2014-CENEPRED/J </a> </td>
 		<td> 31/12/2014 </td>
 		<td> Directiva N° 011-2014-CENEPRED/J </td>
 		<td> 31/12/2014 </td>
-		<td>Manual</td>
+		<td><a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XX-MAN-manual-evar-vulcanismo.pdf"> <span class="glyphicon glyphicon-file"> </span>Manual</a></td>
 		<td>Manual para la evaluacion de riesgos originados por fenomeno volcanico</td>
 	</tr>
 	<tr>
@@ -248,13 +248,11 @@
 		<td> </td>
 		<td> Resolucion Jefatural N° 113-2014-CENEPRED/J </td>
 		<td> 31/12/2014 </td>
-		<td> Directiva N° 010-2014-CENEPRED/J </td>
+		<td> <a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XXI-DIR-directiva-010-2014-manual-evar-inundaciones.pdf"> <span class="glyphicon glyphicon-file"> </span> Directiva N° 010-2014-CENEPRED/J </a></td>
 		<td> 31/12/2014 </td>
-		<td>Manual</td>
+		<td><a target="_blank" href="<?php echo Yii::app()->request->baseUrl; ?>/docs/XXI-RJ-113-2014-manual-evar-inundaciones.pdf"> <span class="glyphicon glyphicon-file"> </span>Manual</a></td>
 		<td>Manual para la evaluacion de riesgos originados por inundaciones fluviales</td>
-	</tr>
-	
-		
+	</tr>			
  </tbody>
  </table>
 </div>
